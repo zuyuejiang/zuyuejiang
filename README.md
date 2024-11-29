@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>✨ This an account for learning.
+✨ This an account for learning.
 <br/>✨ for more projects plz visit : @ambervalentina
 <br/>📫 zj1222@ic.ac.uk
+### 🎖️ IBM Full Stack Software Developer Professional Certificate
+- Getting Started with Git and GitHub: https://github.com/zuyuejiang/jbbmo-Introduction-to-Git-and-GitHub, https://github.com/zuyuejiang/github-final-project.git
+- Developing Front-End Apps with React: https://github.com/zuyuejiang/conference_event_planner,https://github.com/zuyuejiang/e-plantShopping.git
+- Developing Back-End Apps with Node.js and Express: https://github.com/zuyuejiang/expressBookReviews
+- Django Application Development with SQL and Databases: https://github.com/zuyuejiang/tfjzl-final-cloud-app-with-database
+- Full Stack Application Development Capstone Project: https://github.com/zuyuejiang/xrwvm-fullstack_developer_capstone.git
