@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ✨ This an account for learning.
-<br/>✨ for more projects plz visit : @ambervalentina
+<br/>✨ for more projects plz visit main account : @ambervalentina
 <br/>📫 zj1222@ic.ac.uk
 ### 🎖️ IBM Full Stack Software Developer Professional Certificate
 - Getting Started with Git and GitHub: https://github.com/zuyuejiang/jbbmo-Introduction-to-Git-and-GitHub, https://github.com/zuyuejiang/github-final-project.git
